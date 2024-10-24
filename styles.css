@@ -8,7 +8,7 @@ body {
 }
 
 header {
-    background-color: #2207ee;
+    background-color: #07ee07;
     color: #fff;
     padding: 10px 0;
     text-align: center;
@@ -41,13 +41,22 @@ section {
 }
 
 footer {
-    background-color: #2207ee;
+    background-color: #07ee07;
     color: #fff;
     text-align: center;
     padding: 10px 0;
     position: fixed;
     width: 100%;
     bottom: 0;
+}
+
+.profile-photo {
+    float: right;
+}
+
+.btn {
+    background-color: blue;
+    color: white;
 }
 
 /* Add any specific styles you need for different sections here */
