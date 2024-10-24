@@ -4,12 +4,12 @@ body {
     line-height: 1.6;
     margin: 0;
     padding: 0;
-    background-color: #11cc20;
+    background-color: #f4f4f4;
 }
 
 header {
-    background-color: #333;
-    color: #18f50c;
+    background-color: #2207ee;
+    color: #fff;
     padding: 10px 0;
     text-align: center;
 }
@@ -25,7 +25,7 @@ nav ul li {
 }
 
 nav ul li a {
-    color: rgb(19, 252, 54);
+    color: white;
     text-decoration: none;
 }
 
@@ -36,15 +36,16 @@ h1, h2 {
 section {
     padding: 20px;
     margin: 10px 0;
-    background-color: #29f106;
+    background-color: #fff;
     border-radius: 5px;
 }
 
 footer {
-    background-color: #333;
-    color: #27f607;
+    background-color: #2207ee;
+    color: #fff;
     text-align: center;
     padding: 10px 0;
+    position: fixed;
     width: 100%;
     bottom: 0;
 }
